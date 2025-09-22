@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+
 <h1 align="center">Hi 👋, I'm Tasmim Rahman Medha</h1>
 <h3 align="center">A passionate CS student</h3>
 
@@ -17,6 +18,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/in/tasmim-rahman-madha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tasmim-rahman-madha" height="30" width="40" /></a>
 <a href="https://instagram.com/tasmim2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasmim2.0" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/nottasmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/nottasmim" height="30" width="40" /></a>
+<a href="https://medium.com/https://medium.com/@tasmimrahman86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@tasmimrahman86" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
