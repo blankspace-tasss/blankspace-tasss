@@ -1,9 +1,3 @@
-<!-- Typing SVG Banner -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=0E75B6&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Tasmim+Rahman+Medha;A+Passionate+CS+Student;Lifelong+Learner+%26+Explorer;Future+Software+Engineer+%26+Data+Scientist" alt="Typing SVG" />
-  </a>
-</p>
 
 ## Hi there 👋  
 
