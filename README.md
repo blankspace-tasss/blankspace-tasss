@@ -1,29 +1,55 @@
-## Hi there 👋
+## Hi there 👋  
 
 <h1 align="center">Hi 👋, I'm Tasmim Rahman Medha</h1>
-<h3 align="center">A passionate CS student</h3>
+<h3 align="center">A passionate Computer Science Student 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blankspace-tasss&label=Profile%20views&color=0e75b6&style=flat" alt="blankspace-tasss" /> </p>
-
-- 🌱 I’m currently learning **Advance Object Oriented Programming**
-
-- 👯 I’m looking to collaborate on **cutting-edge AI-based EdTech projects.**
-
-- 📫 How to reach me **nottasmim@gmail.com**
-
-- ⚡ Fun fact **I think i am just a self learner!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/in/tasmim-rahman-madha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/tasmim-rahman-madha" height="30" width="40" /></a>
-<a href="https://instagram.com/tasmim2.0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tasmim2.0" height="30" width="40" /></a>
-<a href="https://www.behance.net/www.behance.net/nottasmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="www.behance.net/nottasmim" height="30" width="40" /></a>
-<a href="https://medium.com/medium.com/@tasmimrahman86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium.com/@tasmimrahman86" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=blankspace-tasss&label=Profile%20views&color=0e75b6&style=flat" alt="blankspace-tasss" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blankspace-tasss&show_icons=true&locale=en&layout=compact" alt="blankspace-tasss" /></p>
+### 🌟 About Me
+- 🌱 Currently learning **Advanced Object-Oriented Programming**  
+- 👯 Open to collaborate on **cutting-edge AI-based EdTech projects**  
+- 📫 Reach me at: **nottasmim@gmail.com**  
+- ⚡ Fun fact: *I’m a self-learner who loves exploring new tech!*  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blankspace-tasss&show_icons=true&locale=en" alt="blankspace-tasss" /></p>
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/tasmim-rahman-madha" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/></a>
+<a href="https://instagram.com/tasmim2.0" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/></a>
+<a href="https://www.behance.net/nottasmim" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=behance" alt="Behance" height="40"/></a>
+<a href="https://medium.com/@tasmimrahman86" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=medium" alt="Medium" height="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,mysql,git,figma,unity" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=blankspace-tasss&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blankspace-tasss&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blankspace-tasss&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=blankspace-tasss&theme=tokyonight&row=1&column=6" alt="trophies" />
+</p>
