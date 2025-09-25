@@ -47,7 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blankspace-tasss&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=blankspace-tasss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 🏆 GitHub Achievements
 <p align="center">
