@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Computer Science Student 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=blankspace-tasss&label=Profile%20views&color=0e75b6&style=flat" alt="blankspace-tasss" />
+  <img src="https://komarev.com/ghpvc/?username=blankspace-tasss&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -39,20 +39,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=blankspace-tasss&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blankspace-tasss&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blankspace-tasss&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=blankspace-tasss&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 📌 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blankspace-tasss&show_icons=true&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 ### 🏆 GitHub Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=blankspace-tasss&theme=tokyonight&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=blankspace-tasss&theme=tokyonight&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
