@@ -1,7 +1,4 @@
-
-
-
-## Hi there 👋  
+ 
 
 <h1 align="center">Hi 👋, I'm Tasmim Rahman Medha</h1>
 <h3 align="center">A passionate Computer Science Student 🚀</h3>
@@ -13,7 +10,8 @@
 ---
 
 ### 🌟 About Me
-- 🌱 Currently learning **Advanced Object-Oriented Programming**  
+- 🌱 Currently learning **Advanced Object-Oriented Programming**
+- **Database Management System & Data Structure and Algorithm**
 - 👯 Open to collaborate on **cutting-edge AI-based EdTech projects**  
 - 📫 Reach me at: **nottasmim@gmail.com**  
 - ⚡ Fun fact: *I’m a self-learner who loves exploring new tech!*  
